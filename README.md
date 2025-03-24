@@ -46,5 +46,5 @@ No installation is required. Simply open the `index.html` file in a web browser,
 This project is open-source and available for modification and use.
 
 ## Author
-Developed by [Your Name]
+Developed by Ann Rose Mathew
 
